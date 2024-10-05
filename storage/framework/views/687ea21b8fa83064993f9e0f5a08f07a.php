@@ -43,11 +43,7 @@
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
         <h1>Gisselle <span></span></h1>
-<<<<<<< HEAD
-        <a href="#projects" type="button" class="cta">Projects</a>
-=======
         <a href="#projects" type="button" class="cta">Portfolio</a>
->>>>>>> 8f7abee7e33966d52885519beb7f86b370a601e7
       </div>
     </div>
   </section>
@@ -263,4 +259,4 @@
   <script src="assets/js/app.js"></script>
 </body>
 
-</html>
+</html><?php /**PATH C:\Users\fritz\bussiness-app\resources\views/frontend/Website.blade.php ENDPATH**/ ?>
